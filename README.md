@@ -1,2 +1,2 @@
-# php-examples
+# PHP Examples
 Php kod örnekleri.
