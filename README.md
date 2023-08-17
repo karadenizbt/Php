@@ -6,5 +6,4 @@
   <li>Php ile SMTP eposta gönderme</li>
   <li>Php ile kullanıcı parolası sıfırlama</li>
   <li>Php ile çift faktörlü kullanıcı girişi</li>
-  <li>Php ile çift faktörlü kullanıcı girişi</li>
 </ul>
